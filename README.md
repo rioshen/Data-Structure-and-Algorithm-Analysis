@@ -1,2 +1,1 @@
-# data-structure-and-algorithm
-Exercises of Data Structures and Algorithms Analysis in Java
+This is the repo of [Data Structures and Algorithm Analysis in Java](http://www.pearsonhighered.com/educator/product/Data-Structures-and-Algorithm-Analysis-in-Java/9780132576277.page) exercises and problems
